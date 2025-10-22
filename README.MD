@@ -7,7 +7,6 @@ Ideal para sistemas de facturación, reportes, contratos o comprobantes donde se
 
 - [Instalación](#instalación)
 - [Uso en Node.js](#implementación-en-nodejs--javascript-moderno-esm)
-- [API](#api---convertircolonesaletrasnum-number-string)
 - [Ejemplo completo](#ejemplo-completo-en-un-proyecto-nodejs)
 - [Licencia](#licencia)
 - [Autor](#autor)
