@@ -62,9 +62,7 @@ for (const valor of valores) {
   console.log(`${valor} → ${numeroALetrasColones(valor)}`);
 }
 ```
--Ejecuta el script:
-
-
+Ejecuta el script:
 ```bash
 node index.js
 ```
