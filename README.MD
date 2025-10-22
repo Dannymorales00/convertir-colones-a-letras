@@ -48,7 +48,7 @@ Retorna: Una cadena con el número expresado en letras, seguida de “colones”
 ## Ejemplo completo en un proyecto Node.js
 Instala la librería:
 
-###Instalación
+###Instalar la libreria 
 ```bash
 npm install convertir-colones-a-letras
 ```
