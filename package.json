@@ -1,0 +1,10 @@
+{
+  "name": "convertir-colones-a-letras",
+  "version": "1.0.0",
+  "description": "convierte numeros a letras en colones.",
+  "keywords": ["numero", "letras", "colones", "costa-rica", "texto", "convertir"],
+  "license": "MIT",
+  "author": "Danny Morales",
+  "type": "module",
+  "main": "index.js"
+}
