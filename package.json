@@ -2,9 +2,24 @@
   "name": "convertir-colones-a-letras",
   "version": "1.0.0",
   "description": "convierte numeros a letras en colones.",
-  "keywords": ["numero", "letras", "colones", "costa-rica", "texto", "convertir"],
+  "keywords": [
+    "numero",
+    "letras",
+    "colones",
+    "costa-rica",
+    "texto",
+    "convertir"
+  ],
   "license": "MIT",
   "author": "Danny Morales",
   "type": "module",
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dannymorales00/convertir-colones-a-letras.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dannymorales00/convertir-colones-a-letras/issues"
+  },
+  "homepage": "https://github.com/Dannymorales00/convertir-colones-a-letras#readme"
 }
