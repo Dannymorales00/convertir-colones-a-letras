@@ -3,12 +3,14 @@
 Convierte valores numéricos en **colones costarricenses (₡)** a texto en español.  
 Ideal para sistemas de facturación, reportes, contratos o comprobantes donde se requiere mostrar montos en letras.
 
----
-**Tabla de Contenidos**
+## Tabla de Contenidos
 
-[TOCM]
-
-[TOC]
+- [Instalación](#instalación)
+- [Uso en Node.js](#implementación-en-nodejs--javascript-moderno-esm)
+- [API](#api---convertircolonesaletrasnum-number-string)
+- [Ejemplo completo](#ejemplo-completo-en-un-proyecto-nodejs)
+- [Licencia](#licencia)
+- [Autor](#autor)
 
 
 ##  Instalación
@@ -45,13 +47,13 @@ Retorna: Una cadena con el número expresado en letras, seguida de “colones”
 ## Ejemplo completo en un proyecto Node.js
 Instala la librería:
 
-####Instalación
+###Instalación
 ```bash
 npm install convertir-colones-a-letras
 ```
 Crea un archivo index.js:
 
-####Importación y uso　
+###Importación y uso　
 ```javascript
 import { numeroALetrasColones } from "convertir-colones-a-letras";
 
@@ -60,14 +62,14 @@ for (const valor of valores) {
   console.log(`${valor} → ${numeroALetrasColones(valor)}`);
 }
 ```
-####Ejecuta el script:
+###Ejecuta el script:
 
 
 ```bash
 node index.js
 ```
 
-####Salida esperada:
+###Salida esperada:
 ```bash
 0 → Cero colones
 1 → Un colón
