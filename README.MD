@@ -41,7 +41,7 @@ Convierte un número entero o decimal en letras, con formato de moneda de Costa 
 |Parámetro |Tipo |Descripción|
 | ------------ | ------------ | ------------ |
 | num  |  number   | El número que se desea convertir.   |
-| ------------ | ------------ | ------------ |
+
 Retorna: Una cadena con el número expresado en letras, seguida de “colones” o “colón”.
 
 
