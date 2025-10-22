@@ -48,13 +48,13 @@ Retorna: Una cadena con el número expresado en letras, seguida de “colones”
 ## Ejemplo completo en un proyecto Node.js
 Instala la librería:
 
-###Instalar la libreria 
+##Instalar la libreria 
 ```bash
 npm install convertir-colones-a-letras
 ```
 Crea un archivo index.js:
 
-###Importación y uso　
+##Importación y uso　
 ```javascript
 import { numeroALetrasColones } from "convertir-colones-a-letras";
 
@@ -63,14 +63,14 @@ for (const valor of valores) {
   console.log(`${valor} → ${numeroALetrasColones(valor)}`);
 }
 ```
-###Ejecuta el script:
+##Ejecuta el script:
 
 
 ```bash
 node index.js
 ```
 
-###Salida esperada:
+##Salida esperada:
 ```bash
 0 → Cero colones
 1 → Un colón
@@ -79,8 +79,8 @@ node index.js
 123456 → Ciento veintitrés mil cuatrocientos cincuenta y seis colones
 1000000 → Un millón colones
 ```
-### Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Puedes usarlo libremente en proyectos personales o comerciales.
 
-### Autor
+## Autor
 > Creado por Danny Morales 🇨🇷
